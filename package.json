@@ -1,0 +1,31 @@
+{
+  "name": "@symfoware/inertia-adapter-solid",
+  "description": "SolidJS adapter for Inertia.js",
+  "license": "MIT",
+  "type": "module",
+  "version": "0.0.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symfoware/inertia-adapter-solid.git"
+  },
+  "author": "symfoware",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/symfoware/inertia-adapter-solid"
+  },
+  "homepage": "https://github.com/symfoware/inertia-adapter-solid#readme",
+  "dependencies": {
+    "@inertiajs/core": "^2.0.3"
+  },
+  "peerDependencies": {
+    "@solidjs/meta": "^0.29.4",
+    "solid-js": "^1.9.4"
+  }
+}
