@@ -25,7 +25,6 @@
     "@inertiajs/core": "^2.0.3"
   },
   "peerDependencies": {
-    "@solidjs/meta": "^0.29.4",
     "solid-js": "^1.9.4"
   }
 }
